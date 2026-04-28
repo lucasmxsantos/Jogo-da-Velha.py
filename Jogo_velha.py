@@ -73,3 +73,5 @@ def jogar():
                     jogador_atual = 'X'
         else:
             print("Jogada inválida, tente novamente.\n")
+if __name__ == "__main__":
+    jogar()
